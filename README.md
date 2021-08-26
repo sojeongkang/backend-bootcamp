@@ -17,7 +17,7 @@
     - Tomcat 9.0 설치 및 환경설정 (완료)
 - **MariaDB 설치**
     - 로컬 하드드라이브에 MariaDB 설치 (완료)
-        - 포트 3360으로 설정 (MySQL 포트 3306 사용 중)
+        - 포트 3360으로 설정 
     - Database IDE 설치 > MariaDB호환 가능한 MySQL Workbench 8.0 설치 (완료)
 - **샘플 데이터 생성**
     - theater 스키마(Default Schema) 생성 (완료)
