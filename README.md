@@ -73,7 +73,7 @@
 
 ## week 3
 
-### 테스트 통계 API 구현
+### 테스트 통계 API 구현 => boot_settingweb 폴더
 
 - **샘플 데이터 생성**
     - `statistc` 스키마 생성 (완료)
