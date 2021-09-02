@@ -95,4 +95,32 @@
         - SUBSTR() 함수 활용하여 년도별 데이터 추출
     - Controller 구현 (완료)
         - RestController를 활용하여 응답 바디 JSON 형태로 리턴
+    
+<br>
+
+## week 4
+
+### 통계 API 구현
+
+- **SQL문 작성**
+→  files 폴더 내 `sql_api_final.sql` 에서 확인 가능
+    - 일자 별 접속자 수 SQL문 작성 (완료)
+    - 하루 평균 로그인 수 SQL문 작성 (완료)
+    - 휴일을 제외한 로그인 수 SQL문 작성 (완료)
+    - 부서 별 로그인 수 SQL문 작성 (완료)
+- **SQL문 테스트 (완료)**
+- **RestController를 활용하여 API 구현**
+    - Service, Mapper, VO 생성 (완료)
+        - Lombok 라이브러리 활용하여 VO 메서드 생성
+        - DAO 대신 Mapper 인터페이스 활용
+    - Mapper.xml 작성 (완료)
+    - Controller 구현 (완료)
+        - RestController를 활용하여 응답 바디 JSON 형태로 리턴
+        - API URI 수정
+            - URI Version 1 → Version 2로 수정
+    - POSTMAN으로 응답 확인 (완료)
+- **API 가이드 문서 수정 및 업로드**
+→ files 폴더 `4주차_API가이드문서.pdf` 에서 확인 가능
+    - API 가이드 문서 수정 및 보완 (완료)
+
 
